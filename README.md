@@ -1,6 +1,6 @@
 # NLP Course project #22
 
-**NOTE** Running this all at once is likely to get your connection throttled from to and duckduckgo. Run the cells staggered to avoid this.
+**NOTE** Running this all at once is likely to get your connection throttled by google and duckduckgo. Run the cells staggered to avoid this.
 
 Requirements:
 
